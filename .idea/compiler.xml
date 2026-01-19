@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="PROG3-TD-Ingredients" />
+        <module name="ingredient-management-dec-2025" />
       </profile>
     </annotationProcessing>
   </component>
